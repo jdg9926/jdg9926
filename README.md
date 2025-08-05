@@ -3,7 +3,7 @@
 
 <h1 align="center">안녕하세요, 개발자 박세현 입니다.</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=열정적인+풀스택+개발자;도전을+좋아하는+jdg9926;함께+성장하는+개발자" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=열정적인+풀스택+개발자;도전을+좋아하는+개발자;함께+성장하는+개발자" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,10 +23,9 @@
 
 ## 🚀 About Me
 
-- 🌱 **현재 배우는 중:** (ex. Spring Boot, React)
-- 🧑‍💻 **관심 분야:** 백엔드, 클라우드, 대용량 데이터, AI 활용
-- 💬 **함께 성장할 동료를 찾고 있어요!**
-- 📫 **Contact:** (이메일/블로그 등 추가)
+- 🌱 **현재 배우는 중:** React, Js, Java, MySQL, AWS, Linux ...
+- 🧑‍💻 **관심 분야:** 백엔드, 대용량 데이터, AI 활용
+- 📫 **Contact:** jdg9926@naver.com
 
 ---
 
