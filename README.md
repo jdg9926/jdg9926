@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="https://via.placeholder.com/200x120?text=Wine+Logo" width="100%" />
+      <img src="https://github.com/jdg9926/jdg9926/raw/main/images/wineMainLogo.png" width="100%" />
     </td>
     <td>
       <b>AI가 말아주는 와인 추천</b><br>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td width="200">
-      <img src="https://via.placeholder.com/200x120?text=OMR+Logo" width="100%" />
+      <img src="https://github.com/jdg9926/jdg9926/raw/main/images/OMRMainLogo.png" width="100%" />
     </td>
     <td>
       <b>OTT Movie 리뷰 사이트</b><br>
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td width="200">
-      <img src="https://via.placeholder.com/200x120?text=UKA+Logo" width="100%" />
+      <img src="https://github.com/jdg9926/jdg9926/raw/main/images/UKAMainLogo.png" width="100%" />
     </td>
     <td>
       <b>UKA 센터 (유기동물센터)</b><br>
