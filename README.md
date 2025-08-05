@@ -32,33 +32,20 @@
 
 ## 🔥 My GitHub Stats & Activities
 
-<!-- 활동 그래프, 스탯 위젯 등: 아래처럼 삽입하면 자동 반영됨 -->
-<div align="center">
-
-<!-- 깃허브 stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=jdg9926&show_icons=true&theme=tokyonight" width="48%" />
-
-<!-- 연속 커밋 그래프 -->
-<img src="https://streak-stats.demolab.com/?user=jdg9926&theme=tokyonight" width="48%" />
-
-<!-- 활동 그래프 (SVG) -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jdg9926&theme=tokyo-night&bg_color=FFFFFF00&color=00BFFF" width="95%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jdg9926&theme=darkhub&margin-w=10" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdg9926&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=40% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jdg9926&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=59% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdg9926&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
+</a>
 
 ---
 
 ## 📌 Pinned Projects
 
-<!-- 실제 본인 주요 프로젝트 링크와 설명 작성 (아래는 예시) -->
 | 프로젝트명 | 설명 | 기간 |
 |------------|-------------------------------|------|
 | [MyBlog](https://github.com/jdg9926/MyBlog) | 개인 블로그, Spring Boot/React | 2024.01~ |
