@@ -1,9 +1,9 @@
 <!-- 방문자 수 카운터 -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=jdg9926)
 
-<h1 align="center">Hi 👋, I'm jdg9926</h1>
+<h1 align="center">안녕하세요, 개발자 박세현 입니다.</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=열정적인+백엔드+개발자;도전을+좋아하는+jdg9926;함께+성장하는+개발자" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=열정적인+풀스택+개발자;도전을+좋아하는+jdg9926;함께+성장하는+개발자" alt="Typing SVG" />
 </p>
 
 ---
