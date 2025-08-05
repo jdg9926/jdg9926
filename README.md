@@ -46,9 +46,44 @@
 
 ## 📌 Pinned Projects
 
-| 프로젝트명 | 설명 | 기간 |
-|------------|-------------------------------|------|
-| [MyBlog](https://github.com/jdg9926/MyBlog) | 개인 블로그, Spring Boot/React | 2024.01~ |
-| [ToyProject](https://github.com/jdg9926/ToyProject) | 취미로 만든 토이 프로젝트 | 2023.09~2023.12 |
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://via.placeholder.com/200x120?text=Wine+Logo" width="100%" />
+    </td>
+    <td>
+      <b>AI가 말아주는 와인 추천</b><br>
+      <b>기간:</b> 25.07.14 ~ 진행중<br>
+      <b>설명:</b> 개인 프로젝트로 만들었으며 Python으로 진행하여 Open API AI를 활용한 AI 와인 추천 기능을 구현했습니다.<br>
+      <b>Tech Stack:</b> Python, Java, Spring Boot, JPA, MySQL<br>
+      <a href="http://project-alcohol-recommendation.s3-website.ap-northeast-2.amazonaws.com/">🌐 Live Site</a> | 
+      <a href="https://github.com/jdg9926/project-alcohol-recommendation">🔗 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
+      <img src="https://via.placeholder.com/200x120?text=OMR+Logo" width="100%" />
+    </td>
+    <td>
+      <b>OTT Movie 리뷰 사이트</b><br>
+      <b>기간:</b> 25.07.01 ~ 진행중<br>
+      <b>설명:</b> 팀 프로젝트로 만들었으며 React Native를 활용하여 OTT Movie 리뷰 사이트를 만들었습니다.<br>
+      <b>Tech Stack:</b> React, React Native, Spring Boot, Java, JPA, MySQL<br>
+      <a href="https://github.com/guensoo/TeamProject-OMR">🔗 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
+      <img src="https://via.placeholder.com/200x120?text=UKA+Logo" width="100%" />
+    </td>
+    <td>
+      <b>UKA 센터 (유기동물센터)</b><br>
+      <b>기간:</b> 25.06.09 ~ 25.07.04<br>
+      <b>설명:</b> 팀 프로젝트로 만들었으며 React와 Java를 활용하여 유기동물 입양 센터 페이지를 만들었습니다.<br>
+      <b>Tech Stack:</b> React, Java, Spring Boot, JPA, MySQL<br>
+      <a href="http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/">🌐 Live Site</a> | 
+      <a href="https://github.com/hms1218/TeamProject-UKA">🔗 GitHub</a>
+    </td>
+  </tr>
+</table>
 
----
