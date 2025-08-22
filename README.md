@@ -55,7 +55,7 @@
       <b>기간:</b> 25.07.14 ~ 진행중<br>
       <b>설명:</b> 개인 프로젝트로 만들었으며 Python으로 진행하여 Open API AI를 활용한 AI 와인 추천 기능을 구현했습니다.<br>
       <b>Tech Stack:</b> Python, Java, Spring Boot, JPA, MySQL<br>
-<!--       <a href="http://project-alcohol-recommendation.s3-website.ap-northeast-2.amazonaws.com/">🌐 Live Site</a> |  -->
+      <a href="http://project-alcohol-recommendation.s3-website.ap-northeast-2.amazonaws.com/">🌐 Live Site</a> | 
       <a href="https://github.com/jdg9926/project-alcohol-recommendation">🔗 GitHub</a>
     </td>
   </tr>
