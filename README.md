@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td width="200">
-<!--       <img src="https://github.com/jdg9926/jdg9926/raw/main/images/festivalImg.png" width="100%" /> -->
+      <img src="https://github.com/jdg9926/jdg9926/raw/main/images/festivalImg.png" width="100%" />
     </td>
     <td>
       <b>페스티벌 Go 웹 페이지</b><br>
