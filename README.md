@@ -51,15 +51,15 @@
 <table>
   <tr>
     <td width="200">
-<!--       <img src="https://github.com/jdg9926/jdg9926/raw/main/images/wineMainLogo.png" width="100%" /> -->
+<!--       <img src="https://github.com/jdg9926/jdg9926/raw/main/images/festivalImg.png" width="100%" /> -->
     </td>
     <td>
-      <b>페스티벌 Go 페이지</b><br>
+      <b>페스티벌 Go 웹 페이지</b><br>
       <b>기간:</b> 25.08.11 ~ 25.09.18<br>
       <b>설명:</b> 공공데이터포털의 데이터를 활용한 축제 안내 사이트를 만들었습니다. <br>
       <b>Tech Stack:</b> Python, Java, Spring Boot, JPA, MySQL<br>
 <!--       <a href="http://project-alcohol-recommendation.s3-website.ap-northeast-2.amazonaws.com/">🌐 Live Site</a> |  -->
-      <a href="https://github.com/jdg9926/project-alcohol-recommendation">🔗 GitHub</a>
+      <a href="https://github.com/mk0537/Festival_web_project">🔗 GitHub</a>
     </td>
   </tr>
   <tr>
