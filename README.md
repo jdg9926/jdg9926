@@ -82,7 +82,7 @@
     </td>
     <td>
       <b>OTT Movie 리뷰 사이트</b><br>
-      <b>기간:</b> 25.07.01 ~ 진행중<br>
+      <b>기간:</b> 25.07.01 ~ 25.08.07<br>
       <b>설명:</b> 팀 프로젝트로 만들었으며 React Native를 활용하여 OTT Movie 리뷰 사이트를 만들었습니다.<br>
       <b>Tech Stack:</b> React, React Native, Spring Boot, Java, JPA, MySQL<br>
       <a href="https://github.com/guensoo/TeamProject-OMR">🔗 GitHub</a>
